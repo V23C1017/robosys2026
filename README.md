@@ -2,7 +2,7 @@
 このリポジトリはロボットシステム学の授業で利用するリポジトリです。いくつかのソフトウェアパッケージを公開しています。
 
 # plusコマンド
-![test](https://github.com/V23C1017/Task1/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/V23C1017/robosys2026/actions/workflows/test.yml/badge.svg)
 
 
 ## 必要なソフトウェア
