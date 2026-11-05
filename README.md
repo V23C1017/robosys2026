@@ -1,5 +1,18 @@
 # robosys2026
+このリポジトリはロボットシステム学の授業で利用するリポジトリです。いくつかのソフトウェアパッケージを公開しています。
 
+# plusコマンド
+![test](https://github.com/Itohiya Yukifumi/robosys2026/actions/workflows/test.yml/badge.svg)
+
+
+## 必要なソフトウェア
+- Python
+  - テスト済みバージョン: 3.10〜3.14
+
+## テスト環境
+- Ubuntu 24.04 LTS
+
+## ライセンス
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
 - このパッケージは、aaa由来のコード（© 2025 Hoge Fuge）を利用しています。
 - このパッケージのコードは、下記のスライド（CC BY-SA 4.0 by Taro Suzuki）のものを、
